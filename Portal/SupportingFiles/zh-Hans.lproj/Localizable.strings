@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Portal
+
+  Created by 陈晓克 on 16/9/3.
+  Copyright © 2016年 陈晓克. All rights reserved.
+*/
+Guide.start="开始";
+Login.Submit="提交";
+Login.Return="返回";
+Login.LoginForm="登录表单";
+Login.Account="账号";
+Login.EnterAccount="输入账号";
+Login.Password="密码";
+Login.EnterPassword="输入密码";
+Login.Login="登录";
+Login.SystemLogin="系统登录";
+Login.Authority="鉴权";
